@@ -1,0 +1,9 @@
+$ cd /
+$ ls
+dir gqcclj
+dir lmtpm
+dir nhqwt
+dir qcq
+dir vwqwlqrt
+$ cd gqcclj
+$ cd ..
